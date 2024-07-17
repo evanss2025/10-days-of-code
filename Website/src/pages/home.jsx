@@ -45,11 +45,11 @@ export default function Home() {
             <div id="projects" className="w-3/4 m-8 grid grid-rows-1 md:grid-cols-3 md:flex-row items-center justify-center">
               <div className="bg-white rounded-xl p-4 m-3 flex flex-col items-center justfiy-center">
                 <h1 className="font-bold">Developing a fully responsive website in React and Tailwind - Malycia, WA</h1>
-                <p className="text-sm mt-2">“I loved having the time to work on a project that was on my todo list for months. I’m so happy to have participated!” - Malycia, 17, Seattle</p>
+                <p className="text-sm mt-2">“I loved having the time to work on a project that was on my todo list for months. I’m so happy to have participated!”</p>
                 <img className="h-52" src="malycia.png"></img>
               </div>
               <div className="bg-white rounded-xl p-4 m-3 flex flex-col items-center justfiy-center">
-                <h1 className="font-bold">Making their own rocket launch simulator in Unity - Savina, CA</h1>
+                <h1 className="font-bold">Making her own rocket launch simulator in Unity - Savina, CA</h1>
                 <p className="text-sm mt-2">"10 Days of Code was an incredible experience because I not only made new friends and had such great connections/conversations, but I was also able to push myself and learn something completely new in code!"</p>
                 <img src="savina.png"></img>
               </div>
