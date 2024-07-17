@@ -56,7 +56,7 @@ export default function Home() {
               <div className="bg-white rounded-xl p-4 m-3 flex flex-col items-center justfiy-center">
                 <h1 className="font-bold">Using Google Maps and Airtable to create a town cleanup website. - Sophia, MA</h1>
                 <p className="text-sm mt-2">“10 Days of Code was a great opportunity to learn more about tech and it has grown my passion for coding. Getting advice from people at HQ gave me insight to their skills and helped me learn Airtable and Google Maps API.”</p>
-                <img src="ecoconnect.png"></img>
+                <img src="ecoconnect2.png"></img>
               </div>
             </div>
           </div>
